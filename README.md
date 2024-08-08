@@ -8,6 +8,8 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 Specifically built for Rockchip processors using Qt5 by [Q-engineering](https://qengineering.eu/)
 
+##### If you have the original Rock OS, please install https://github.com/Qengineering/rtop-KDE
+
 ------------
 
 ## Installing rtop.
