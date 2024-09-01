@@ -15,7 +15,8 @@ Specifically built for Rockchip processors using Qt5 by [Q-engineering](https://
 ## Installing rtop.
 To install **rtop**, download the repository, make the install script executable, and run it:<br/>
 ```script
-$ git clone https://github.com/Qengineering/rtop-Ubuntu.git 
+$ git clone https://github.com/Qengineering/rtop-Ubuntu.git
+$ cd rtop-Ubuntu.git 
 $ sudo chmod +x ./install_rtop.sh 
 $ sudo ./install_rtop.sh 
 ```
