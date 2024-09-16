@@ -21,6 +21,12 @@ $ sudo chmod +x ./install_rtop.sh
 $ sudo ./install_rtop.sh 
 ```
 
+If your system complains about missing the `libQt5Widgets.so.5` library, you can install it with the next command:
+
+```
+sudo apt-get install libqt5widgets5
+```
+
 ------------
 
 ## Running rtop.
